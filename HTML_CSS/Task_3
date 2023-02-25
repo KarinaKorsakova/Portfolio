@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+   <head>
+     <title>Доставка цветов Flowers</title>
+     <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Qwitcher+Grypen&display=swap" rel="stylesheet">
+     <style>
+     body {background: url(https://kartinkin.net/uploads/posts/2022-03/thumbs/1647957532_42-kartinkin-net-p-kartinki-pastelnikh-tonov-60.jpg);     
+    }
+     .container {
+       display: flex;
+       flex-direction: column;
+       width: 80%;
+       margin: 10px auto;
+     }
+     .top {
+       height: 200px;
+       background-color: #F8EAC6;
+       align-items: center;
+       display: flex;
+       justify-content: space-evenly;
+       font-family: 'Qwitcher Grypen', cursive;
+       font-size: 20px;
+     }
+     .middle {
+       height: 80px;
+       background-color: #E7DABF;
+       align-items: center;
+       display: flex;
+       justify-content: space-evenly;
+       font-family: 'Qwitcher Grypen', cursive;
+       font-size: 40px;
+     }
+     .bottom {
+       height: 100px;
+       display: flex;
+     }
+     .left {
+       width: 15%;
+       background-color: #F7E8F7;
+       align-items: center;
+       display: flex;
+       text-align: center;
+       font-family: 'Qwitcher Grypen', cursive;
+       font-size: 15px;
+     }
+     .center {
+       width: 60%;
+       background-color: #EAD4F0;
+       align-items: center;
+       display: flex;
+       text-align: center;
+       font-family: 'Qwitcher Grypen', cursive;
+       font-size: 15px;
+     }
+     .right {
+       width: 25%;
+       background-color: #C896D5;
+       align-items: center;
+       display: flex;
+       text-align: center;
+       font-family: 'Qwitcher Grypen', cursive;
+       font-size: 15px;
+     }
+     </style>
+   </head>
+   
+   <body>
+     <header>
+     <h1><center>Доставка цветов Flowers</center></h1>
+     </header>
+     <main>   
+       <div class="container">
+         <div class="top"><p>Заказ цветов - это лучший подарок на праздник</p> 
+           <img src="https://i.pinimg.com/736x/70/32/3a/70323a03c06f34a9dcc9c45576e59cc1.jpg" alt="Цветы" width="20%">
+         </div>
+         
+         <div class="middle"><p>Наши новинки</p>
+           <img src="https://sahar.gift/files/products/dece76bd84893ae30fc3b95ffeb490d3.600x500.jpg" alt="Букет" width="10%">
+           <img src="https://moonflowers.com.ua/files/storage/1231231231231600409102230.jpg" alt="Букет" width="15%">   
+           <img src="https://vlv-mag.com/assets/img/Gurman/2018/8-vipusk/sjedobnije-buketi/syedobniy-buket-004-min.jpg" alt="Букет" width="15%">          
+         </div>
+         
+         <div class="bottom"> 
+                 <div class="left"><p><b>Букеты<br>Хит продаж<br>Цветы в коробках</b></p></div>
+               <div class="center"><p>Мы создаем композиции, которые все скажут за Вас! Остаётся лишь подобрать нужные "слова" и заказать доставку!</p></div>
+               <div class="right"><p><b>Контакты<br>Оплата<br>Условия доставки</b></p></div>
+         </div>
+       </div>     
+     </main> 
+   <footer>
+        <h4><center>made by Karina</center></h4>
+      </footer>
+ 
+   </body>
+</html>
