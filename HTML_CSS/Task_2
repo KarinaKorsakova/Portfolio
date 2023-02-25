@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Кот</title>
+      <style>
+         body {
+           text-align: center;
+           color: black;
+           font-family: helvetica;
+           background: url("https://phonoteka.org/uploads/posts/2021-05/1620740361_10-phonoteka_org-p-tri-kota-fon-lapki-12.jpg")
+           }
+           img {
+             border-radius: 50%;
+             border: 5px solid white;
+             margin-top: 50px;
+           }
+           p {
+             font-size: 30px;
+           }
+           input {
+             border: 0;
+             padding: 20 px;
+             font-size: 30px;
+           }
+           input[type="submit"] {
+            background: brown;
+            color: white;
+           }
+      </style>
+  </head>
+  <body>
+    <img src="https://static.ukrinform.com/photos/2022_03/thumb_files/630_360_1648474357-392.jpg" alt="Изображение кота" width="40%">
+    <p><b><i>Подпишись, чтобы котик не грустил :)</i></b></p>
+    <input type="email" name="" placeholder="Твоя почта">
+    <input type="submit" name="">
+  </body>
+</html>
